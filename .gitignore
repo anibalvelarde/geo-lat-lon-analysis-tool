@@ -8,7 +8,6 @@ __pycache__/
 
 # Custom exclusions
 /output/
-/assets/
 
 # Distribution / packaging
 .Python
