@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom exclusions
+/output/
+/assets/
+
 # Distribution / packaging
 .Python
 build/
