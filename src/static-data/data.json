@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "thing-type": "Service Car Kam",
+      "thing-name": "Service Car Kam",
+      "lat": 9.01721821218571,
+      "lon": -79.50284854610737
+    },
+    {
+      "id": 2,
+      "thing-type": "CEDAUTO, S.A.",
+      "thing-name": "CEDAUTO, S.A.",
+      "lat": 9.024166703938958,
+      "lon": -79.48485817494273
+    },
+    {
+      "id": 3,
+      "thing-type": "SERECA",
+      "thing-name": "SERECA",
+      "lat": 9.010740716182747,
+      "lon": -79.50225754610736
+    },
+    {
+      "id": 4,
+      "thing-type": "FORSA, S.A.",
+      "thing-name": "FORSA, S.A.",
+      "lat": 8.974362141074952,
+      "lon": -79.54029470377844
+    },
+    {
+      "id": 5,
+      "thing-type": "AUTOCOLOR, S.A.",
+      "thing-name": "AUTOCOLOR, S.A.",
+      "lat": 9.003448930725419,
+      "lon": -79.51994410932178
+    },
+    {
+      "id": 6,
+      "thing-type": "EXECUTIVE PAINT & BODY",
+      "thing-name": "EXECUTIVE PAINT & BODY",
+      "lat": 8.986501502412702,
+      "lon": -79.51385116695809
+    },
+    {
+      "id": 7,
+      "thing-type": "TALLER AUTO PANAMA",
+      "thing-name": "TALLER AUTO PANAMA",
+      "lat": 8.970682943227423,
+      "lon": -79.53884520377842
+    },
+    {
+      "id": 8,
+      "thing-type": "TALLER CHAPISCOLOR",
+      "thing-name": "TALLER CHAPISCOLOR",
+      "lat": 9.006508615354644,
+      "lon": -79.5027912884366
+    },
+    {
+      "id": 9,
+      "thing-type": "Familia Fuentes Velarde",
+      "thing-name": "Familia Fuentes Velarde",
+      "lat": 9.081780915443098,
+      "lon": -79.51280673042963
+    },
+    {
+      "id": 10,
+      "thing-type": "Casa Abuelito",
+      "thing-name": "Casa Abuelito",
+      "lat": 9.053236110657904,
+      "lon": -79.43590101411785
+    }
+  ]
+  

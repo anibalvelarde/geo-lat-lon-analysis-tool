@@ -1,0 +1,7 @@
+[
+ { "id": 105, "thing-type": "plant", "thing-name": "Protolabs Rosemount", "lat": 44.73034695487514, "lon": -93.12546429254073 },
+ { "id": 110, "thing-type": "plant", "thing-name": "Protolabs Plymouth", "lat": 45.008515022957404, "lon": -93.46962082120679 },
+ { "id": 115, "thing-type": "plant", "thing-name": "Protolabs Brooklyn Park", "lat": 45.10986833649129, "lon": -93.38318524104422 },
+ { "id": 100, "thing-type": "plant", "thing-name": "Protolabs HQ", "lat": 45.014331177721864, "lon": -93.6633875684703623 },
+ { "id": 101, "thing-type": "plant", "thing-name": "Lonsdale, MN", "lat": 44.48556753231405, "lon": -93.41274397447113 }
+]
